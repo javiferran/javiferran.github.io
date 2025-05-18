@@ -45,4 +45,7 @@ semanticscholar_id: 1751450782 # your Semantic Scholar ID
 x_username: javifer_96 # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social:
+custom_social: # can be any name here other than the ones already defined above
+  logo: 
+  title: 
+  url: 
