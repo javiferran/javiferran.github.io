@@ -20,8 +20,4 @@ announcements:
 
 ---
 
-I am a Research Engineer at the Barcelona Supercomputing Center and a final year PhD student at the Universitat Politècnica de Catalunya (UPC). Recently, I was a [MATS](https://www.matsprogram.org/) scholar, mentored by [Neel Nanda](https://www.neelnanda.io/about). During my PhD I have been fortunate enough to do research internships at [AI at Meta (FAIR)](https://ai.meta.com/), in the Machine Translation team at [Apple](https://www.apple.com/), and in the Books Science team at [Amazon](https://www.amazon.science/).
-
-My research focuses on interpretability and analysis of models. Currently, I am doing mechanistic interpretability research in Large Language Models, with special interest in improving their safety. Apart from research, I have also been a teacher assistant at several courses in the Computer Science and Telecommunications departments at UPC.
-
-Feel free to give anonymous feedback: [here](https://www.admonymous.co/javifer).
+I am an Applied Scientist at Amazon. I received my PhD in Artificial Intelligence from the Universitat Politècnica de Catalunya (UPC), where I focused on the interpretability and analysis of NLP models. I was recently a [MATS](https://www.matsprogram.org/) scholar, mentored by [Neel Nanda](https://www.neelnanda.io/about).
