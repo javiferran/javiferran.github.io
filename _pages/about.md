@@ -20,4 +20,4 @@ announcements:
 
 ---
 
-I am an Applied Scientist at Amazon. I received my PhD in Artificial Intelligence from the Universitat Politècnica de Catalunya (UPC), where I focused on the interpretability and analysis of NLP models. I was recently a [MATS](https://www.matsprogram.org/) scholar, mentored by [Neel Nanda](https://www.neelnanda.io/about).
+I am an Applied Scientist at Amazon. I received my PhD in Artificial Intelligence from the Universitat Politècnica de Catalunya (UPC), where I focused on the interpretability and analysis of NLP models.
